@@ -1,6 +1,8 @@
 React.js / Node.js / etc. JavaScript short notes
 ===
 
+http://pilot.github.io/reactjs-notes/
+
 The list of bookmarks about latest thinngs happen in React.js and Reactnative, Node.js and JavaScript world.
 
 As we use a lot of frameworks and tasty libs in our work at [Lazy Ants](http://lazy-ants.com) team we extremely want to store it some where permanently, github is best the place!
